@@ -1,0 +1,11 @@
+mysql -u root -p
+C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+creare database <db name>;
+drop database <db name>;
+use <db name>;
+drop <db name>;
+create table <table name>;
+show columns from <table name>;
+
+Model это обычный класс, который будет использоваться на клиенте и с помощью которого будет просиходит обмен данными между сервером и клиентом
